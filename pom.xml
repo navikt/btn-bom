@@ -7,7 +7,7 @@
   <packaging>pom</packaging>
 
   <properties>
-    <btn.common.version>16</btn.common.version>
+    <btn.common.version>17</btn.common.version>
     <ktor.version>1.2.5</ktor.version>
     <kafka.version>2.3.0</kafka.version>
     <confluent.version>5.3.0</confluent.version>
